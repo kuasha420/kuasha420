@@ -1,17 +1,19 @@
 <h1 align="center">Hello, I'm Arafat!</h1>
 <h3 align="center">Full Stack TypeScript Developer</h3>
 
-- 🔭 I’m currently working as a JavaScript Engineer at [Star IT Limited](https://staritltd.com/)
+- 🔭 I’m currently working as a Senior JavaScript Engineer (React) at [10up](https://10up.com/)
 
-- 🌱 I’m currently learning **Dart & Flutter**
+- 🌱 I’m currently focusing on [Google Site Kit](https://github.com/google/site-kit-wp)
 
 - ⭐ You can find my open source projects [here.](https://github.com/kuasha420?tab=repositories)
 
-- Most of my projects are also on [NPM.](https://www.npmjs.com/~kuasha420)
+- 😍 Most of my projects are also on [NPM.](https://www.npmjs.com/~kuasha420)
 
 - 💬 Ask me about **typescript, linux and react (native)**
 
 - 📫 How to reach me **hello@kuasha.xyz**
+
+- 🏛️ Previously worked on [Star IT Limited](https://staritltd.com/) (JavaScript Engineer)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
