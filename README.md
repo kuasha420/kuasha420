@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **hello@kuasha.xyz**
 
-- 🏛️ Previously worked on [Star IT Limited](https://staritltd.com/) (JavaScript Engineer)
+- 🏛️ Previously worked at [Star IT Limited](https://staritltd.com/) (JavaScript Engineer)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
