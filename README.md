@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Arafat!</h1>
-<h3 align="center">Full Stack TypeScript Developer</h3>
+<h3 align="center">JavaScript Engineer</h3>
 
 - 🔭 I’m currently working as a Senior JavaScript Engineer (React) at [10up](https://10up.com/)
 
