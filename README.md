@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Arafat!</h1>
 <h3 align="center">JavaScript Engineer</h3>
 
-- 🔭 I’m currently working as a Senior JavaScript Engineer (React) at [10up](https://10up.com/)
+- 🔭 I’m currently working as a Senior JavaScript Engineer (React) at [10up](https://10up.com/about/#employee-arafat-zahan)
 
 - 🌱 I’m currently focusing on [Google Site Kit](https://github.com/google/site-kit-wp)
 
