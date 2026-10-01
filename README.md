@@ -23,9 +23,10 @@ Download tailored, print-ready 2-page vector PDFs from the [cv-monorepo](https:/
 
 | Profile | Focus Area | PDF Download | Source |
 | :--- | :--- | :---: | :---: |
-| **Master CV** | Comprehensive Systems Architecture & Technical Leadership | [📥 Download PDF](https://raw.githubusercontent.com/kuasha420/cv-monorepo/main/Arafat_Zahan_Master_CV.pdf) | [Markdown](https://github.com/kuasha420/cv-monorepo/blob/main/Arafat_Zahan_Master_CV.md) |
-| **Staff Full-Stack** | Web Platform Architecture, Next.js 15, Turborepo, tRPC, React Native | [📥 Download PDF](https://raw.githubusercontent.com/kuasha420/cv-monorepo/main/Arafat_Zahan_Staff_FullStack_CV.pdf) | [Markdown](https://github.com/kuasha420/cv-monorepo/blob/main/Arafat_Zahan_Staff_FullStack_CV.md) |
-| **Founding Engineer** | 0-to-1 Startup Execution, Physical Operations & Clinical Software | [📥 Download PDF](https://raw.githubusercontent.com/kuasha420/cv-monorepo/main/Arafat_Zahan_Founding_Engineer_CV.pdf) | [Markdown](https://github.com/kuasha420/cv-monorepo/blob/main/Arafat_Zahan_Founding_Engineer_CV.md) |
+| **Curriculum Vitae** | Unrestricted Complete Career Dossier (10+ Yrs Systems, OSS & Ops) | [📥 Download PDF](https://raw.githubusercontent.com/kuasha420/cv-monorepo/main/Arafat_Zahan_Curriculum_Vitae.pdf) | [Markdown](https://github.com/kuasha420/cv-monorepo/blob/main/Arafat_Zahan_Curriculum_Vitae.md) |
+| **Systems Architect** | Systems Architecture & Technical Leadership (2-Page A4) | [📥 Download PDF](https://raw.githubusercontent.com/kuasha420/cv-monorepo/main/Arafat_Zahan_Systems_Architect_CV.pdf) | [Markdown](https://github.com/kuasha420/cv-monorepo/blob/main/Arafat_Zahan_Systems_Architect_CV.md) |
+| **Staff Full-Stack** | Web Platform Architecture, Next.js 15, Turborepo, tRPC, React Native (2-Page A4) | [📥 Download PDF](https://raw.githubusercontent.com/kuasha420/cv-monorepo/main/Arafat_Zahan_Staff_FullStack_CV.pdf) | [Markdown](https://github.com/kuasha420/cv-monorepo/blob/main/Arafat_Zahan_Staff_FullStack_CV.md) |
+| **Founding Engineer** | 0-to-1 Startup Execution, Physical Operations & Clinical Software (2-Page A4) | [📥 Download PDF](https://raw.githubusercontent.com/kuasha420/cv-monorepo/main/Arafat_Zahan_Founding_Engineer_CV.pdf) | [Markdown](https://github.com/kuasha420/cv-monorepo/blob/main/Arafat_Zahan_Founding_Engineer_CV.md) |
 
 ---
 
