@@ -47,10 +47,12 @@ Download tailored, print-ready 2-page vector PDFs from the [cv-monorepo](https:/
   * Architected distributed sharding (`HJ-OSS-11`), per-guild leases (`HJ-OSS-04`), and **Hosted Jasper** (a logically multi-tenant SaaS control plane for zero-token community onboarding while preserving open self-hosting).
   * Built an interactive Next.js web application (`apps/web`) with synchronized seek bars, alongside a typed Plugin SDK (`HJ-OSS-10`, `HJ-OSS-12`).
 
-* **Motion Mechanics & Sunshine Physio — Co-Founder & Head of Tech/Operations:**
-  * Co-founded a modern outpatient physical rehabilitation clinic on CRP Road in Savar; directed commercial lease, physical space buildout, specialized medical equipment procurement, and clinical team staffing across Neurology, MSK, and Paediatrics.
-  * **`mm-website` Clinical Platform:** Next.js 15, Turborepo, tRPC, Prisma, PostgreSQL clinical operations and patient scheduling platform.
-  * **`sunshine-physio-universalapp`:** Universal clinical triage and scheduling suite across Next.js and React Native / Expo with bilingual support (English/Bengali).
+* **Motion Mechanics Physiotherapy & Rehabilitation Hub (Purrfect Universe) — Co-Founder & Head of Tech/Operations:**
+  * Co-founded a physical outpatient rehabilitation clinic on CRP Road in Savar as an internal venture ("planet") of Purrfect Universe; directed commercial lease, clinic buildout, medical equipment procurement, and staffing across Neurology, MSK, and Paediatrics.
+  * **`mm-website` Clinical Platform:** Architected proprietary clinic platform with Next.js 15, Turborepo, tRPC, Prisma, and PostgreSQL for patient scheduling, practitioner rosters, and clinical intake.
+
+* **Sunshine Physio (`sunshine-physio-universalapp`) — Lead Full-Stack Architect (Purrfect Software Limited):**
+  * Architected a fully managed client project delivered via PSL: universal clinical triage and scheduling platform across Next.js web and React Native / Expo mobile with bilingual support (English/Bengali).
 
 * **Pawthy Secrets CLI (`@psl-oss/pawthy`) — Author & Maintainer:**
   * Zero-trust developer secret synchronization CLI adopted across multi-repo engineering workflows.
