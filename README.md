@@ -1,7 +1,7 @@
 <div align="center">
 
-# 👨‍💻 Arafat Zahan
-### Principal Systems Architect • Founding Engineer • High-Agency Builder
+# Arafat Zahan
+### Principal Systems Architect • Founding Engineer
 
 [![Website](https://img.shields.io/badge/Website-kuasha.xyz-0284c7?style=flat-square&logo=google-chrome&logoColor=white)](https://kuasha.xyz)
 [![Portfolio](https://img.shields.io/badge/Portfolio-kuasha420.github.io-0f172a?style=flat-square&logo=firefox&logoColor=white)](https://kuasha420.github.io)
@@ -10,64 +10,66 @@
 [![Email](https://img.shields.io/badge/Email-kuasha420%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kuasha420@gmail.com)
 
 <p align="center">
-  <em>10+ years of software craftsmanship spanning Google-scale web architectures, distributed systems, bare-metal Linux infrastructure, and 0-to-1 physical business ventures.</em>
+  <em>10+ years of engineering experience across Google-scale web applications, distributed media engines, and zero-to-one operational ventures.</em>
 </p>
 
 </div>
 
 ---
 
-### 📑 Verified Tailored CV Suite (Exact 2-Page Vector PDFs)
+### 📑 Resumes & CVs
 
-Download ATS-optimized, high-contrast CVs directly compiled from the [cv-monorepo](https://github.com/kuasha420/cv-monorepo):
+Download tailored, print-ready 2-page vector PDFs from the [cv-monorepo](https://github.com/kuasha420/cv-monorepo):
 
 | Profile | Focus Area | PDF Download | Source |
 | :--- | :--- | :---: | :---: |
-| **Master CV** | Comprehensive Systems Craftsmanship & Architectural Leadership | [📥 Download PDF](https://raw.githubusercontent.com/kuasha420/cv-monorepo/main/Arafat_Zahan_Master_CV.pdf) | [Markdown](https://github.com/kuasha420/cv-monorepo/blob/main/Arafat_Zahan_Master_CV.md) |
+| **Master CV** | Comprehensive Systems Architecture & Technical Leadership | [📥 Download PDF](https://raw.githubusercontent.com/kuasha420/cv-monorepo/main/Arafat_Zahan_Master_CV.pdf) | [Markdown](https://github.com/kuasha420/cv-monorepo/blob/main/Arafat_Zahan_Master_CV.md) |
 | **Staff Full-Stack** | Web Platform Architecture, Next.js 15, Turborepo, tRPC, React Native | [📥 Download PDF](https://raw.githubusercontent.com/kuasha420/cv-monorepo/main/Arafat_Zahan_Staff_FullStack_CV.pdf) | [Markdown](https://github.com/kuasha420/cv-monorepo/blob/main/Arafat_Zahan_Staff_FullStack_CV.md) |
-| **Founding Engineer** | 0-to-1 Startup Execution, Physical Operations & Clinical Platform Suite | [📥 Download PDF](https://raw.githubusercontent.com/kuasha420/cv-monorepo/main/Arafat_Zahan_Founding_Engineer_CV.pdf) | [Markdown](https://github.com/kuasha420/cv-monorepo/blob/main/Arafat_Zahan_Founding_Engineer_CV.md) |
+| **Founding Engineer** | 0-to-1 Startup Execution, Physical Operations & Clinical Software | [📥 Download PDF](https://raw.githubusercontent.com/kuasha420/cv-monorepo/main/Arafat_Zahan_Founding_Engineer_CV.pdf) | [Markdown](https://github.com/kuasha420/cv-monorepo/blob/main/Arafat_Zahan_Founding_Engineer_CV.md) |
 
 ---
 
-### 🏗️ Verified Architectural Impact & Production Metrics
+### 🏗️ Selected Systems & Engineering Work
 
-* **Google Site Kit (`google/site-kit-wp`) — Senior Technical Lead (via 10up):**
-  * **236 merged pull requests** directly into Google's official repository powering millions of WordPress sites globally.
-  * **Canonical Design Documents Authored:**
-    * *User Input v2 Design Doc* — Approved by Felix Arntz (Google Tech Lead) & Mariya Moeva (Google Lead PM).
-    * *Ad Blocking Recovery (ABR) Design Doc* — Approved by Google PM & 10up Engineering Leadership.
-  * Formulated the team-wide **"Mid-Point Review"** process officially adopted across 10up's Site Kit engineering workflow.
+* **Google Site Kit (`google/site-kit-wp`) — Technical Lead (via 10up):**
+  * Core technical lead partnering directly with Google on Google’s official WordPress plugin active on **3M+ production websites**.
+  * Merged **236 production pull requests** across Google Analytics 4, Reader Revenue Manager, AdSense, and Search Console.
+  * Authored technical design documents approved by Google engineering leadership:
+    * *User Input v2* — Approved by Felix Arntz (Google Tech Lead) & Mariya Moeva (Google Lead PM).
+    * *Ad Blocking Recovery (ABR)* — Approved by Google PM & 10up Engineering Leadership.
+  * Instituted the team-wide **"Mid-Point Review"** process officially adopted across 10up's Site Kit workflow to minimize PR churn.
   * Recipient of the **10up Summit "Uppie" Award** (Reykjavik, Iceland, 2023) for engineering excellence.
 
-* **Jasper Media Engine (`sakibtamim/Jasper`) — Lead Systems Architect:**
-  * **695 production commits (93.4% author)** of a distributed, fault-tolerant Discord audio streaming platform.
-  * Solved upstream 403 Forbidden throttling via an externalized streaming engine (`yt-dlp` + `FFmpeg`).
-  * Designed distributed sharding and graceful drain contracts (`HJ-OSS-11`), per-guild AFR leases and multi-guild concurrency (`HJ-OSS-04`).
-  * Engineered an interactive Next.js audio scrubber client (`apps/web`) and a versioned Plugin SDK (`HJ-OSS-10`, `HJ-OSS-12`).
+* **Jasper Dual-Engine Audio Platform (`sakibtamim/Jasper`) — Lead Systems Architect:**
+  * Spearheaded architecture and core engineering for a high-resilience Discord media platform and its multi-tenant SaaS evolution.
+  * Eliminated audio stream dropouts and YouTube 403 Forbidden errors by creating an externalized streaming daemon integrating `yt-dlp` and `FFmpeg`.
+  * Designed "One Mind, Many Bodies" architecture with Automatic Feline Rotation (AFR), enabling multiple bot instances to stream across multiple voice channels concurrently under a unified controller.
+  * Architected distributed sharding (`HJ-OSS-11`), per-guild leases (`HJ-OSS-04`), and **Hosted Jasper** (a logically multi-tenant SaaS control plane for zero-token community onboarding while preserving open self-hosting).
+  * Built an interactive Next.js web application (`apps/web`) with synchronized seek bars, alongside a typed Plugin SDK (`HJ-OSS-10`, `HJ-OSS-12`).
 
 * **Motion Mechanics & Sunshine Physio — Co-Founder & Head of Tech/Operations:**
-  * Co-founded a modern outpatient physical rehabilitation clinic on CRP Road in Savar; directed commercial lease, clinical launch, medical equipment procurement, and clinical staffing across Neurology, MSK, and Paediatrics.
-  * **`mm-website` (614 commits / 52.4% author):** Next.js 15, Turborepo, tRPC, Prisma, PostgreSQL clinical care platform.
-  * **`sunshine-physio-universalapp` (138 commits / 59.7% author):** Universal triage & care scheduling suite (Next.js + Expo).
+  * Co-founded a modern outpatient physical rehabilitation clinic on CRP Road in Savar; directed commercial lease, physical space buildout, specialized medical equipment procurement, and clinical team staffing across Neurology, MSK, and Paediatrics.
+  * **`mm-website` Clinical Platform:** Next.js 15, Turborepo, tRPC, Prisma, PostgreSQL clinical operations and patient scheduling platform.
+  * **`sunshine-physio-universalapp`:** Universal clinical triage and scheduling suite across Next.js and React Native / Expo with bilingual support (English/Bengali).
 
 * **Pawthy Secrets CLI (`@psl-oss/pawthy`) — Author & Maintainer:**
-  * **462 commits (94% author):** Zero-trust developer secret synchronization CLI adopted across every repository at PSL and Motion Mechanics.
-  * Hexagonal architecture, DomainPorts, transactional outbox pattern, Fastify REST backend, and Discord approval gates.
+  * Zero-trust developer secret synchronization CLI adopted across multi-repo engineering workflows.
+  * Hexagonal architecture with DomainPorts, transactional outbox pattern, Fastify REST backend, and Discord approval workflows.
 
 * **Knot Mesh (`kuasha420/knot-mesh`):**
-  * Multi-node distributed Linux/Wayland workspace mesh connecting Arch Linux desktop, laptop, and Steam Deck via KRDP virtual monitors and Linda Tuplespace batching (178 commits).
+  * Multi-node distributed Linux/Wayland workspace mesh connecting Arch Linux desktop, laptop, and Steam Deck via KRDP virtual monitors, remote PTY execution, and Linda Tuplespace batching.
 
 ---
 
-### 📦 Notable Open-Source Ecosystem
+### 📦 Open-Source Packages
 
-| Package / Tool | Monthly Usage / Target | Description |
+| Package / Tool | Monthly Usage | Description |
 | :--- | :--- | :--- |
 | [`react-native-paper-phone-number-input`](https://www.npmjs.com/package/react-native-paper-phone-number-input) | `~4,100 / mo` | Standard international phone number input with search and validation for React Native Paper |
 | [`react-native-paper-toast`](https://www.npmjs.com/package/react-native-paper-toast) | `~2,140 / mo` | Imperative toast notifications component integrated with React Native Paper |
 | [`react-native-paper-alerts`](https://www.npmjs.com/package/react-native-paper-alerts) | `~520 / mo` | Cross-platform imperative alert and confirm modal dialogs |
-| [`mst-persistent-store`](https://www.npmjs.com/package/mst-persistent-store) | `~240 / mo` | Persistent MobX-State-Tree store provider and hook for React & React Native |
-| [`jimha`](https://github.com/kuasha420/jimha) | Linux evdev / Python | Fullscreen tactile game intercepting raw hardware input to shield host OS while entertaining toddlers |
+| [`mst-persistent-store`](https://www.npmjs.com/package/mst-persistent-store) | `~240 / mo` | Persistent MobX-State-Tree store provider and custom hooks for React & React Native |
+| [`jimha`](https://github.com/kuasha420/jimha) | Linux evdev / Python | Fullscreen tactile game intercepting raw hardware input to protect host systems while entertaining toddlers |
 | [`antigravity-manager-bin`](https://aur.archlinux.org) | Arch Linux AUR | Official AUR package maintainer for Antigravity desktop tools |
 
 ---
@@ -79,18 +81,18 @@ Languages:     TypeScript, JavaScript (ESNext), Python, PHP, Rust, Shell/Bash, S
 Frontend:      React, Next.js 15 (App Router, Server Components), Turborepo, tRPC, Tailwind CSS
 Mobile:        React Native, Expo, React Native Paper, React Navigation, Native Bridges
 Backend:       Node.js (Fastify, Express), Hexagonal Architecture, Transactional Outbox, Sharding
-Data:          PostgreSQL, MySQL, Prisma ORM, Redis, Checksum-tracked Migrations
+Data:          PostgreSQL, MySQL, Prisma ORM, Redis, Checksum-tracked Migrations, SQLite
 Infra/DevOps:  Arch Linux, Debian, Docker, GitHub Actions CI/CD, GCP, RHCE (Red Hat), CCNA (Cisco)
 ```
 
 ---
 
-### 🐔 The Long-Term Horizon: ChickenTech
+### 🐔 The Horizon: ChickenTech
 
-> *"Operating at the intersection of high-scale digital distributed systems and physical operations — on an eventual trajectory to free-range automated precision agriculture at **ChickenTech** 🐔💻."*
+> *"Building resilient systems today; on an eventual trajectory to free-range automated precision agriculture at **ChickenTech** 🐔💻."*
 
 ---
 
 <div align="center">
-  <sub>Crafted with unassailable rigor by Arafat Zahan • Savar, Dhaka, Bangladesh</sub>
+  <sub>Arafat Zahan • Savar, Dhaka, Bangladesh</sub>
 </div>
