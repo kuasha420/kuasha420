@@ -65,13 +65,12 @@ Download print-ready vector PDFs or inspect the full source in the [cv-monorepo]
 
 ---
 
-### Open-Source Packages (~7.5k Monthly npm Downloads)
+### Open-Source Packages (~7,000 Monthly npm Downloads)
 
 | Package / Tool | Monthly Usage | Description |
 | :--- | :--- | :--- |
 | [`react-native-paper-phone-number-input`](https://www.npmjs.com/package/react-native-paper-phone-number-input) | `~4,100 / mo` | International phone number input with search modal and flag picker for React Native Paper |
 | [`react-native-paper-toast`](https://www.npmjs.com/package/react-native-paper-toast) | `~2,140 / mo` | Imperative toast notifications component integrated with Material Design / React Native Paper |
-| [`react-native-immersive-bars`](https://www.npmjs.com/package/react-native-immersive-bars) | `~570 / mo` | Android navigation and status bar style controller for edge-to-edge React Native apps |
 | [`react-native-paper-alerts`](https://www.npmjs.com/package/react-native-paper-alerts) | `~520 / mo` | Cross-platform imperative alert and confirm modal dialogs for iOS, Android, and Web |
 | [`mst-persistent-store`](https://www.npmjs.com/package/mst-persistent-store) | `~240 / mo` | Persistent MobX-State-Tree store provider and custom hooks for React & React Native |
 | [`antigravity-manager-bin`](https://aur.archlinux.org/packages/antigravity-manager-bin) | Arch Linux AUR | AUR package maintainer for Antigravity desktop tools |
