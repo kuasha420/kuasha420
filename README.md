@@ -5,6 +5,7 @@
 
 [![Website](https://img.shields.io/badge/Website-kuasha.xyz-0284c7?style=flat-square&logo=google-chrome&logoColor=white)](https://kuasha.xyz)
 [![Portfolio](https://img.shields.io/badge/Portfolio-kuasha420.github.io-0f172a?style=flat-square&logo=firefox&logoColor=white)](https://kuasha420.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-arafat--zahan-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arafat-zahan-a03502394/)
 [![CV Monorepo](https://img.shields.io/badge/CV_Suite-kuasha420%2Fcv--monorepo-10b981?style=flat-square&logo=github&logoColor=white)](https://github.com/kuasha420/cv-monorepo)
 [![NPM](https://img.shields.io/badge/NPM-Packages-cb3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~kuasha420)
 [![Email](https://img.shields.io/badge/Email-kuasha420%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kuasha420@gmail.com)
@@ -43,12 +44,12 @@ Download print-ready vector PDFs or inspect the full source in the [cv-monorepo]
 
 * **Jasper Media Platform (`sakibtamim/Jasper`) — Lead Systems Architect:**
   * Spearheaded architecture and core engineering for a high-resilience Discord media platform and its multi-tenant SaaS evolution.
-  * Architected a resilient distributed audio streaming pipeline utilizing an externalized `yt-dlp` and `FFmpeg` daemon, eliminating stream dropouts and 403 throttling; implemented automated worker failover and concurrency lease coordination across voice channels.
+  * Architected a resilient distributed audio streaming pipeline utilizing an externalized `yt-dlp` and `FFmpeg` daemon, achieving a **>90% reduction in stream dropouts and 403 throttling**; implemented automated worker failover and concurrency lease coordination across voice channels.
   * Designed a logically multi-tenant SaaS control plane allowing community Discord servers to self-onboard with zero DevOps. Engineered per-guild concurrency leases, distributed worker sharding, gateway intent isolation, and graceful drain contracts.
   * Built real-time Next.js web application (`apps/web`) with synchronized seek bars, alongside a typed Plugin SDK and checksum-tracked PostgreSQL migrations.
 
 * **Motion Mechanics Physiotherapy & Rehabilitation Hub — Co-Founder & Platform Architect:**
-  * Co-founded a physical outpatient rehabilitation clinic on CRP Road in Savar; co-managed commercial lease negotiations, clinic buildout, specialized medical equipment procurement, and clinical team staffing across Neurology, MSK, and Paediatrics.
+  * Co-founded a physical outpatient rehabilitation clinic on CRP Road in Savar; co-managed commercial lease negotiations, clinic buildout, specialized medical equipment procurement, and clinical team staffing (**18-person multi-disciplinary team** across 3 clinical specialties: Neurology, MSK, and Paediatrics).
   * **`mm-website` Clinical Platform:** Architected proprietary clinic operations and scheduling platform using Next.js 15, Turborepo, tRPC, Prisma ORM, and PostgreSQL. Built custom GCP re-auth wrappers and automated secrets deployment.
 
 * **Sunshine Physio (`purrfectsoft/sunshine-physio-webapp`) — Lead Frontend Engineer (Web & Mobile):**
@@ -70,6 +71,7 @@ Download print-ready vector PDFs or inspect the full source in the [cv-monorepo]
 | :--- | :--- | :--- |
 | [`react-native-paper-phone-number-input`](https://www.npmjs.com/package/react-native-paper-phone-number-input) | `~4,100 / mo` | International phone number input with search modal and flag picker for React Native Paper |
 | [`react-native-paper-toast`](https://www.npmjs.com/package/react-native-paper-toast) | `~2,140 / mo` | Imperative toast notifications component integrated with Material Design / React Native Paper |
+| [`react-native-immersive-bars`](https://www.npmjs.com/package/react-native-immersive-bars) | `~570 / mo` | Android navigation and status bar style controller for edge-to-edge React Native apps |
 | [`react-native-paper-alerts`](https://www.npmjs.com/package/react-native-paper-alerts) | `~520 / mo` | Cross-platform imperative alert and confirm modal dialogs for iOS, Android, and Web |
 | [`mst-persistent-store`](https://www.npmjs.com/package/mst-persistent-store) | `~240 / mo` | Persistent MobX-State-Tree store provider and custom hooks for React & React Native |
 | [`antigravity-manager-bin`](https://aur.archlinux.org/packages/antigravity-manager-bin) | Arch Linux AUR | AUR package maintainer for Antigravity desktop tools |
